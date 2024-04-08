@@ -43,18 +43,6 @@ To get started with our AI-powered voice assistant for warehouse management, fol
 4. Train the voice assistant model using relevant data and fine-tune as needed.
 5. Start using the voice assistant to streamline warehouse operations and improve efficiency.
 
-## Contributing
-
-We welcome contributions from the community to further enhance and refine our AI-powered voice assistant system. If you're interested in contributing, please follow these guidelines:
-
-- Fork the repository and create a new branch for your feature or bug fix.
-- Make your changes and ensure all tests pass.
-- Submit a pull request with a clear description of your changes and why they are beneficial.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
-
 ## Acknowledgements
 
 We would like to thank the developers and contributors of the libraries and frameworks used in this project, as well as our mentors and advisors for their guidance and support.
